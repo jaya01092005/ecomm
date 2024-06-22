@@ -1,4 +1,4 @@
-# eCommerce Website
+# E-Commerce Website
 
 Welcome to the eCommerce Website repository!
 This project is a fully functional eCommerce web application with dynamic functionalities. 

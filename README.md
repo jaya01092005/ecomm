@@ -48,12 +48,16 @@ Follow these steps to set up the project locally:
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
 1.Fork the repository.
+
 2.Create a new branch.
+
 3.Make your changes.
+
 4.Submit a pull request.
   
 ## Contact
 If you have any questions or suggestions, feel free to contact me:
 
 Name: Jayashree
+
 Email: jayamanik2005@gmail.com
